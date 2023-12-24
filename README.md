@@ -8,7 +8,7 @@
 ## como baixar o projeto
 
 ```
-git clone 
+git clone https://github.com/alaelcio/Fitness_app.git
 cd base
 yarn 
 npm i
